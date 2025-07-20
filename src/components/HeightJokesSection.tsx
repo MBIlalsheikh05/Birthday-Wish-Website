@@ -4,8 +4,8 @@ import { Ruler, Coffee, Plane, Mountain } from "lucide-react";
 const heightJokes = [
   {
     icon: Ruler,
-    joke: "At 5'2\", Esha is perfectly sized for hugs - no neck strain required! 🤗",
-    subtitle: "Perfectly Proportioned"
+    joke: "Esha gives the warmest, most genuine hugs that instantly brighten your day! 🤗",
+    subtitle: "Perfectly Wonderful"
   },
   {
     icon: Mountain,
@@ -22,9 +22,9 @@ const HeightJokesSection = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
             Height Humor 📏
           </h2>
-          <p className="text-xl text-muted-foreground">
-            Because someone has to remind our birthday girl that great things come in small packages! 😄
-          </p>
+           <p className="text-xl text-muted-foreground">
+             Celebrating what makes Esha absolutely amazing and one-of-a-kind! 😄
+           </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
