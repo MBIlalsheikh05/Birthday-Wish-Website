@@ -3,12 +3,12 @@ import { Button } from "@/components/ui/button";
 import { Gift, PartyPopper, Cake, Sparkles } from "lucide-react";
 
 const wishes = [
-  "May your dreams grow as tall as you wish you were! 🌟",
-  "Here's to another year of reaching new heights (literally and figuratively)! 📈",
-  "May you always find step stools when you need them most! 🪜",
-  "Wishing you success that's bigger than your height difference with supermodels! 💃",
-  "May your birthday cake be taller than you! (Okay, maybe not THAT tall...) 🎂",
-  "Here's to a year filled with dreams that require no height requirements! ✨"
+  "May your dreams shine as bright as your beautiful smile! 🌟",
+  "Here's to another year of incredible adventures and achievements! 📈",
+  "Wishing you endless happiness and amazing memories! 🎊",
+  "May this year bring you everything that makes your heart happy! 💖",
+  "Here's to celebrating the wonderful person you are! 🎂",
+  "May your year ahead be filled with love, laughter, and success! ✨"
 ];
 
 const WishesSection = () => {
@@ -57,10 +57,10 @@ const WishesSection = () => {
             </h3>
             
             <p className="text-xl text-primary-foreground/90 leading-relaxed mb-8">
-              You're proof that amazing things come in perfectly sized packages! 
+              You bring so much joy and positivity to everyone around you! 
               Here's to celebrating another year of your incredible journey. 
-              May this new year bring you everything your heart desires... 
-              and maybe a few step stools too! 😄💕
+              May this new year bring you everything your heart desires - 
+              love, success, and endless happiness! 🌟💕
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
