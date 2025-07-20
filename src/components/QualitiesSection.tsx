@@ -6,7 +6,7 @@ const qualities = [
   {
     icon: Brain,
     title: "The Dreamer",
-    description: "With visions bigger than her height (which isn't saying much 😉), Esha dreams in technicolor and makes magic happen!",
+    description: "Your dreams are valid, your passion is rare, and your journey is just getting started. I'm cheering for you always.",
     gradient: "bg-gradient-dreamy",
     badge: "Visionary"
   },
