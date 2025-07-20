@@ -5,21 +5,11 @@ const heightJokes = [
   {
     icon: Ruler,
     joke: "At 5'2\", Esha is perfectly sized for hugs - no neck strain required! 🤗",
-    subtitle: "Ergonomically Designed"
-  },
-  {
-    icon: Coffee,
-    joke: "She orders tall at Starbucks and the barista asks 'Are you sure?' ☕",
-    subtitle: "Coffee Shop Chronicles"
-  },
-  {
-    icon: Plane,
-    joke: "Airplane legroom? What's that? Esha's got her own private VIP space! ✈️",
-    subtitle: "Travel Perks"
+    subtitle: "Perfectly Proportioned"
   },
   {
     icon: Mountain,
-    joke: "She climbs mountains of success while standing on actual mountains... of phone books! 📚",
+    joke: "She climbs mountains of success, proving that greatness comes in all sizes! 🏔️",
     subtitle: "Reaching New Heights"
   }
 ];
@@ -63,11 +53,10 @@ const HeightJokesSection = () => {
           <Card className="bg-gradient-sparkle p-8 shadow-celebration">
             <CardContent>
               <h3 className="text-2xl font-bold text-primary-foreground mb-4">
-                Fun Fact! 🎉
+                Sweet Truth! 🎉
               </h3>
               <p className="text-lg text-primary-foreground/90 leading-relaxed">
-                Esha may be 5'2\" in height, but she's 10 feet tall in our hearts! ❤️<br/>
-                <span className="text-sm opacity-75">(And approximately 3 feet tall when she sits down... kidding! 😆)</span>
+                Esha may be 5'2\" in height, but she's infinitely tall in our hearts! ❤️
               </p>
             </CardContent>
           </Card>
