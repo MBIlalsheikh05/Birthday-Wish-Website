@@ -44,24 +44,23 @@ const WishesSection = () => {
         </div>
 
         {/* Birthday Message */}
-        <Card className="bg-gradient-vibrant shadow-glow animate-bounce-slow border-2 border-birthday-gold/30">
+        <Card className="bg-gradient-celebration shadow-glow animate-bounce-slow">
           <CardContent className="p-12 text-center">
             <div className="flex justify-center gap-4 mb-6">
-              <PartyPopper className="h-10 w-10 text-white animate-float drop-shadow-lg" />
-              <Cake className="h-10 w-10 text-white animate-bounce-slow drop-shadow-lg" />
-              <Sparkles className="h-10 w-10 text-white animate-sparkle drop-shadow-lg" />
+              <PartyPopper className="h-8 w-8 text-primary-foreground animate-float" />
+              <Cake className="h-8 w-8 text-primary-foreground animate-bounce-slow" />
+              <Sparkles className="h-8 w-8 text-primary-foreground animate-sparkle" />
             </div>
             
-            <h3 className="text-4xl font-bold text-white mb-6 drop-shadow-lg">
-              🎂 Happy Birthday, Esha! 🎂
+            <h3 className="text-3xl font-bold text-primary-foreground mb-6">
+              Happy Birthday, Esha! 🎉
             </h3>
             
-            <p className="text-xl text-white leading-relaxed mb-8 drop-shadow-md max-w-2xl mx-auto">
+            <p className="text-xl text-primary-foreground/90 leading-relaxed mb-8">
               Today we celebrate the amazing person you are! Your kindness lights up every room, 
               your dreams inspire us all, and your spirit makes the world brighter. 
               Here's to another year of adventures, achievements, and beautiful memories! ✨🎈
             </p>
-
           </CardContent>
         </Card>
       </div>
