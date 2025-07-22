@@ -62,22 +62,6 @@ const WishesSection = () => {
               Here's to another year of adventures, achievements, and beautiful memories! ✨🎈
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button 
-                variant="secondary" 
-                size="lg" 
-                className="bg-white/95 text-birthday-coral hover:bg-white hover:scale-105 transition-all duration-300 font-semibold shadow-lg border-2 border-white/50"
-              >
-                ✨ Make a Birthday Wish! ✨
-              </Button>
-              <Button 
-                variant="outline" 
-                size="lg" 
-                className="border-2 border-white/80 text-white hover:bg-white/20 hover:scale-105 transition-all duration-300 font-semibold shadow-lg backdrop-blur-sm"
-              >
-                🎂 Blow Out the Candles! 🎂
-              </Button>
-            </div>
           </CardContent>
         </Card>
       </div>
