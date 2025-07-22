@@ -66,13 +66,16 @@ export default {
 					pink: 'hsl(var(--birthday-pink))',
 					purple: 'hsl(var(--birthday-purple))',
 					gold: 'hsl(var(--birthday-gold))',
-					rose: 'hsl(var(--birthday-rose))'
+					rose: 'hsl(var(--birthday-rose))',
+					coral: 'hsl(var(--birthday-coral))',
+					mint: 'hsl(var(--birthday-mint))'
 				}
 			},
 			backgroundImage: {
 				'gradient-celebration': 'var(--gradient-celebration)',
 				'gradient-dreamy': 'var(--gradient-dreamy)',
-				'gradient-sparkle': 'var(--gradient-sparkle)'
+				'gradient-sparkle': 'var(--gradient-sparkle)',
+				'gradient-vibrant': 'var(--gradient-vibrant)'
 			},
 			boxShadow: {
 				'celebration': 'var(--shadow-celebration)',
