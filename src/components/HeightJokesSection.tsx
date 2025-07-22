@@ -4,12 +4,12 @@ import { Ruler, Coffee, Plane, Mountain } from "lucide-react";
 const heightJokes = [
   {
     icon: Ruler,
-    joke: "Esha gives the warmest, most genuine hugs that instantly brighten your day! 🤗",
-    subtitle: "Perfectly Wonderful"
+    joke: "Esha may be 5'2, but her confidence adds an extra 10 inches! 😎",
+    subtitle: "Measuring Confidence"
   },
   {
     icon: Mountain,
-    joke: "She climbs mountains of success, proving that greatness comes in all sizes! 🏔️",
+    joke: "She climbs mountains of success, proving that greatness comes in all sizes! ",
     subtitle: "Reaching New Heights"
   }
 ];
@@ -20,10 +20,10 @@ const HeightJokesSection = () => {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Height Humor 📏
+            Let's Talk About her Height 📏
           </h2>
            <p className="text-xl text-muted-foreground">
-             Celebrating what makes Esha absolutely amazing and one-of-a-kind! 😄
+             Shining the spotlight on Esha — because amazing deserves to be celebrated! 😄
            </p>
         </div>
 
@@ -53,10 +53,10 @@ const HeightJokesSection = () => {
           <Card className="bg-gradient-sparkle p-8 shadow-celebration">
             <CardContent>
               <h3 className="text-2xl font-bold text-primary-foreground mb-4">
-                Sweet Truth! 🎉
+                Truth! 🎉
               </h3>
               <p className="text-lg text-primary-foreground/90 leading-relaxed">
-                Esha may be 5'2\" in height, but she's infinitely tall in our hearts! ❤️
+                She says she’s the Don… and honestly, I don’t argue with 5'2 of unstoppable energy. 🎉😅
               </p>
             </CardContent>
           </Card>

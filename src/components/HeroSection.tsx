@@ -36,7 +36,7 @@ const HeroSection = () => {
               To the most amazing dreamer, hardworker, and ambitious soul we know! ✨
             </p>
             <p className="text-lg text-muted-foreground mt-4">
-              (And yes, you're still our favorite pocket-sized powerhouse! 😄)
+              (Permission granted to cause chaos — it’s your day! 🎈😜)
             </p>
           </Card>
         </div>

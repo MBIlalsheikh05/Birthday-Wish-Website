@@ -6,7 +6,7 @@ const wishes = [
   "May your dreams shine as bright as your beautiful smile! 🌟",
   "Here's to another year of incredible adventures and achievements! 📈",
   "Wishing you endless happiness and amazing memories! 🎊",
-  "May this year bring you everything that makes your heart happy! 💖",
+  "May this year bring you everything that makes your heart happy! 🤗",
   "Here's to celebrating the wonderful person you are! 🎂",
   "May your year ahead be filled with love, laughter, and success! ✨"
 ];
