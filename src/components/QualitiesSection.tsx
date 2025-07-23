@@ -86,6 +86,9 @@ const QualitiesSection = () => {
                 </div>
               </CardHeader>
               <CardContent>
+                <p className="text-gray-600 text-center leading-relaxed">
+                  {quality.description}
+                </p>
               </CardContent>
             </Card>
           ))}
