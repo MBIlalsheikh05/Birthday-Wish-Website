@@ -20,7 +20,7 @@ const qualities = [
   {
     icon: Trophy,
     title: "The Sports Soul 🏆",
-    description: "A Cristiano Ronaldo fangirl through and through — she brings energy and heart to every game! ⚽💥",
+    description: "A Cristiano Ronaldo fangirl through and through ⚽💥",
     gradient: "bg-gradient-to-br from-fuchsia-400 via-pink-500 to-rose-500",
     badge: "CR7 Vibes ⚡"
   },
