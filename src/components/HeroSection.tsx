@@ -31,7 +31,7 @@ const HeroSection = () => {
             Esha Khalid! 🎉
           </h2>
           
-          <Card className="bg-card/80 backdrop-blur-sm p-8 shadow-celebration animate-scale-in">
+          <Card className="bg-card/80 backdrop-blur-sm p-8 shadow-celebration animate-scale-in mt-8">
             <p className="text-xl md:text-2xl text-foreground leading-relaxed">
               To the most amazing dreamer, hardworker, and ambitious soul I know! ✨
             </p>
