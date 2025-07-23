@@ -33,7 +33,7 @@ const HeroSection = () => {
           
           <Card className="bg-card/80 backdrop-blur-sm p-8 shadow-celebration animate-scale-in">
             <p className="text-xl md:text-2xl text-foreground leading-relaxed">
-              To the most amazing dreamer, hardworker, and ambitious soul we know! ✨
+              To the most amazing dreamer, hardworker, and ambitious soul I know! ✨
             </p>
             <p className="text-lg text-muted-foreground mt-4">
               (Permission granted to cause chaos — it’s your day! 🎈😜)
